@@ -1,3 +1,7 @@
+#Hosting React JS App with Amazon Amplify
+https://aws.amazon.com/id/getting-started/hands-on/build-react-app-amplify-graphql/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
